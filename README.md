@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# Land_Block ANY ndjdh
-=======
-# Land_Block Nikhil Lodu bsdka
-
->>>>>>> 
-f533edcdf80c3e65c2ea6bdbedd0feacd03592bfdmkkksdj dsldsdslds kl dsdoidjd 
+# Land_Block
+A colaborative project of Land Registration using Blockchain by Aryan Dhaor, Nikhil Agrawal and Yash Kapoor
