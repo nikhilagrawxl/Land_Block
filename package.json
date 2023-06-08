@@ -1,0 +1,14 @@
+{
+  "name": "land_block",
+  "version": "1.0.0",
+  "description": "A colaborative project of Land Registration using Blockchain by Aryan Dhaor, Nikhil Agrawal and Yash Kapoor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.9.4"
+  }
+}
